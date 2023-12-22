@@ -1,16 +1,7 @@
 # req1_x_o_game
 
-A new Flutter project.
+A new Flutter project with dart game in terminal using android studio , cuz i already had it laying around collection dust  (⌐■_■) .
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+go to the "lib" folder and find the  main.dart file and run it using your IDE , preferably Android Studio
